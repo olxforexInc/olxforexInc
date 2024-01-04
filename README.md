@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @olxforexInc
-<img src="https://demo.olxforex.com/src/logo.png" width="500"/>
+<img src="https://demo.olxforex.com/src/logo-black-mood.jpeg" width="500"/>
 
 # **OlxForex**
 
